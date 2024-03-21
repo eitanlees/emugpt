@@ -2,6 +2,11 @@
 
 ![Illustration of an Emu and chicks by Elizabeth Gould](img/John_Gould_Emu.jpg)
 
+
+## 2024-04-21:
+Well I have learned a lot over the past couple of days and I think I have a basic proof of concept working. 
+
+## 2024-04-19:
 I want to create a terminal application to interact with an LLM.
 
 - I want to use [textualize/textual](https://github.com/textualize/textual/)
